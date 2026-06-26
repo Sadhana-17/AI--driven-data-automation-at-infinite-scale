@@ -1,0 +1,6 @@
+{
+  "name": "AetherData",
+  "description": "AetherData v2.4 - Premium landing page for an AI-driven data automation platform with matrix-driven pricing and real-time stream simulation at infinite scale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
